@@ -1,0 +1,58 @@
+[
+    {
+      "id":1,
+      "img": "https://images.unsplash.com/photo-1591084728795-1149f32d9866?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+      "name": "Mahfuzur Rahman",
+      "date": "10-20-2022",
+      "readTime": 15,
+      "description": "Get your first job as a self-taught programmer",
+      "poster": "https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1206&q=80",
+      "category": "Action/Crime",
+      "imdbRating": 9.0
+    },
+    {
+      "id":2,
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+      "name": "Jhanker Mahbub",
+      "date": "08-26-2022",
+      "readTime": 14,
+      "description": "Learn Web Development and work abroad",
+      "poster": "https://images.unsplash.com/photo-1583508915901-b5f84c1dcde1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "category": "Drama",
+      "imdbRating": 9.3
+    },
+    {
+      "id":3,
+      "img": "https://us.123rf.com/450wm/andresr/andresr1206/andresr120600288/13977661-portrait-of-a-handsome-casual-businessman-smiling.jpg",
+      "name": "Mr. Raju",
+      "date": "01-16-2023",
+      "readTime": 8,
+      "description": "Learn Java and be an Android App Developer",
+      "poster": "https://images.unsplash.com/photo-1533709752211-118fcaf03312?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "category": "Action/Sci-Fi",
+      "imdbRating": 8.8
+    },
+    {
+      "id":4,
+      "img": "https://media.istockphoto.com/id/1051202402/photo/portrait-of-smiling-businessman-holding-tablet-and-making-ok-sign.jpg?s=2048x2048&w=is&k=20&c=-XjGOM0Gp-p6LYNsTsK6sHHLjm36BMfwIO0PajrMvLQ=",
+      "name": "Mina Mostofa",
+      "date": "10-26-2022",
+      "readTime": 20,
+      "description": "Let's learn BlockChain",
+      "poster": "https://plus.unsplash.com/premium_photo-1674203955507-00ec9dad3601?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+      "category": "Drama/Comedy",
+      "imdbRating": 8.8
+    },
+    {
+      "id":5,
+      "img": "https://st4.depositphotos.com/32880800/38884/i/450/depositphotos_388848418-stock-photo-portrait-half-body-40s-asian.jpg",
+      "name": "Gias Uddin",
+      "date": "12-31-2022",
+      "readTime": 17,
+      "description": "Be a Certified Ethical Hacker and work with national security team",
+      "poster": "https://images.unsplash.com/photo-1586325194227-7625ed95172b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=404&q=80",
+      "category": "Crime/Drama",
+      "imdbRating": 9.2
+    }
+  ]
+  

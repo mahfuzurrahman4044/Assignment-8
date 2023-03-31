@@ -1,0 +1,12 @@
+.bookmark{
+    position: sticky;
+    top: 50px;
+}
+
+.spent-time{
+    background-color: lightblue;
+}
+
+.number-of-bookmark{
+    background-color: lightblue;
+}
